@@ -11,7 +11,7 @@ import (
 	"runtime"
 
 	"github.com/kardianos/osext"
-	"gopkg.in/inconshreveable/go-update.v0"
+	"github.com/LiuChangFreeman/go-update"
 )
 
 type Initiative string
